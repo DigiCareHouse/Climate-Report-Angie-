@@ -1,0 +1,10 @@
+Flask>=2.3.3
+Flask-SocketIO>=5.3.6
+python-docx>=1.1.0
+openpyxl>=3.1.2
+requests>=2.31.0
+python-dotenv>=1.0.0
+dropbox>=11.36.2
+gevent>=23.9.1
+gevent-websocket>=0.10.1
+matplotlib>=3.8.0

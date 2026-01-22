@@ -1,0 +1,28 @@
+[
+  {
+    "confidential": false,
+    "createdBy": {
+      "email": "shameen.digicare@gmail.com",
+      "firstName": "Shameen",
+      "id": "ue7eb18fd85fb709a9c878038",
+      "lastName": "Khan",
+      "type": "member"
+    },
+    "createdOn": 1763994536912144,
+    "description": "",
+    "favorite": true,
+    "id": 1763994536912144,
+    "isMember": true,
+    "name": "Shameen's room",
+    "type": "open",
+    "updatedBy": {
+      "email": "shameen.digicare@gmail.com",
+      "firstName": "Shameen",
+      "id": "ue7eb18fd85fb709a9c878038",
+      "lastName": "Khan",
+      "type": "member"
+    },
+    "updatedOn": 1763994536912144,
+    "workspaceId": "digicarehouse6903"
+  }
+]

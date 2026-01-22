@@ -1,0 +1,74 @@
+[
+  {
+    "_canvasLink": "https://app.mural.co/a/195c0a83-eac5-4fd4-b694-70a62a13da62/t/digicarehouse6903/m/digicarehouse6903/1764287641855/c0ce43951524bed01bc46ee13d34395618188f4e",
+    "createdBy": {
+      "firstName": "Shameen",
+      "id": "ue7eb18fd85fb709a9c878038",
+      "lastName": "Khan"
+    },
+    "createdOn": 1764287641855,
+    "favorite": false,
+    "id": "digicarehouse6903.1764287641855",
+    "infinite": true,
+    "roomId": 1763994536912144,
+    "sharingSettings": {
+      "link": "https://app.mural.co/invitation/mural/digicarehouse6903/1764287641855?sender=ue7eb18fd85fb709a9c878038&key=f33d09a2-b34a-4608-8987-c0d003141a0d"
+    },
+    "state": "c0ce43951524bed01bc46ee13d34395618188f4e",
+    "status": "active",
+    "thumbnailUrl": "https://murally.blob.core.windows.net/thumbnails/digicarehouse6903/murals/digicarehouse6903.1764287641855-undefined-a0812f12-4506-4d70-98dd-0527eea2b501.png?v=56d2ef0e-6936-419d-b68f-e1f68086976f",
+    "title": "Climate Adaptation Testing",
+    "updatedBy": {
+      "firstName": "Shameen",
+      "id": "ue7eb18fd85fb709a9c878038",
+      "lastName": "Khan"
+    },
+    "updatedOn": 1764943881029,
+    "visitorsSettings": {
+      "link": "https://app.mural.co/t/digicarehouse6903/m/digicarehouse6903/1764287641855/c0ce43951524bed01bc46ee13d34395618188f4e?sender=ue7eb18fd85fb709a9c878038",
+      "visitors": "read",
+      "workspaceMembers": "write"
+    },
+    "workspaceId": "digicarehouse6903",
+    "room": {
+      "id": 1763994536912144,
+      "name": "Shameen's room"
+    }
+  },
+  {
+    "_canvasLink": "https://app.mural.co/a/195c0a83-eac5-4fd4-b694-70a62a13da62/t/digicarehouse6903/m/digicarehouse6903/1763994638589/8867a253a6d01143259613b0cedb7eaa38434c41",
+    "createdBy": {
+      "firstName": "Shameen",
+      "id": "ue7eb18fd85fb709a9c878038",
+      "lastName": "Khan"
+    },
+    "createdOn": 1763994638589,
+    "favorite": false,
+    "id": "digicarehouse6903.1763994638589",
+    "infinite": true,
+    "roomId": 1763994536912144,
+    "sharingSettings": {
+      "link": "https://app.mural.co/invitation/mural/digicarehouse6903/1763994638589?sender=ue7eb18fd85fb709a9c878038&key=6d34dc88-29c7-4698-9ab0-e13944169ec1"
+    },
+    "state": "8867a253a6d01143259613b0cedb7eaa38434c41",
+    "status": "active",
+    "thumbnailUrl": "https://murally.blob.core.windows.net/thumbnails/digicarehouse6903/murals/digicarehouse6903.1763994638589-undefined-2a8a7291-723c-4eeb-97e5-a4875a8bb648.png?v=4e90c1bd-c60c-48cb-a0ed-71d4e246d0f0",
+    "title": "East Hill Farm Plan Board",
+    "updatedBy": {
+      "firstName": "Shameen",
+      "id": "ue7eb18fd85fb709a9c878038",
+      "lastName": "Khan"
+    },
+    "updatedOn": 1763995239668,
+    "visitorsSettings": {
+      "link": "https://app.mural.co/t/digicarehouse6903/m/digicarehouse6903/1763994638589/8867a253a6d01143259613b0cedb7eaa38434c41?sender=ue7eb18fd85fb709a9c878038",
+      "visitors": "none",
+      "workspaceMembers": "write"
+    },
+    "workspaceId": "digicarehouse6903",
+    "room": {
+      "id": 1763994536912144,
+      "name": "Shameen's room"
+    }
+  }
+]

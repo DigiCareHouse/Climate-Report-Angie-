@@ -1,0 +1,454 @@
+
+================================================================================
+MURAL TO EXCEL EXTRACTION REPORT
+================================================================================
+Generated: 2026-01-16 23:42:22
+Mural ID: upwork4918.1764955053881
+Mural Title: Test Salman-1
+Excel Output: Mural_Output_Test Salman1_20260116_234220.xlsx
+
+================================================================================
+TABLE 1: RISKS FROM CLIMATE CHANGE
+================================================================================
+
+Column 1 - Yellow Notes (Key current risks from extreme heat):
+--------------------------------------------------------------------------------
+
+1. costs increase
+
+2. fatality increase for saftey and maintenace
+
+3. essential maintenance cant go ahead because too hot - delay minutes/service performance affected
+
+4. emergencies planning - not fit for purpose - need 2 means of evacuation --currently not in Queen st, only 1 lift and staircase - 1 tunnel
+
+5. temperature rating
+
+6. battery management - batteries dont like heat
+
+7. once one cell persihes it other cells at risk of fire.
+
+8. exposed location
+
+9. inadequatestaff accomodation
+
+10. platfor 3-4 not fit for puspose - little boxes
+
+11. width of island platforms (3,4) few cool spots - could lead to accidents due to shirt width - for pedestrrians
+
+12. platform 5 has no shelter
+
+13. clear roof - greenhouse
+
+14. lack ofshelter
+
+15. heat stroke
+
+16. heat of the train plus heat - could be a problems - less with new fleet
+
+17. wooden sleepers have caught fire -creosote
+
+18. lots of breaking coming into the station
+
+19. overheating of equipment - trackside signalling modules
+
+20. flooding pollution - from train & neighbour sites
+
+21. track damage - washout & rail
+
+22. fallen debris
+
+23. overheating of equipment - trackside signalling modules
+
+24. overheating of equipment - trackside signalling modules
+
+25. overheating of equipment - trackside signalling modules
+
+--------------------------------------------------------------------------------
+Column 2 - Dark Red Notes (Key risks from future climate scenarios):
+--------------------------------------------------------------------------------
+
+1. increased waste management - would be a fire risk and smell -
+
+2. fire risk on trains
+
+3. if lift out of use - no back up exit other than stairs - fit for purpose of site
+
+4. commercial risk - people wont use the service
+
+5. people struggle with heat - people loosing it - pasengers, esp with alcohol
+
+6. Main Newport road would be affected by any derailment
+
+7. e.g. expansion of glass happens in a range - if exceeded the glass with crack
+
+8. increased urban heat island effect
+
+9. additional demand on the grid - DNOs - as things get hotter - when over a certain current rating it will trip
+
+10. building materials lose reliabiity under hotter temps - insulating materials, cladding, on the station building - e.g. GRP - loose performance - if they are installed in 5 years and not future proofed -
+
+11. system overheating and unable to perform at required capacity
+
+12. heat not currntly seen as a reason to stop trains
+
+13. shelter - increasingly insufficient
+
+14. risk of fire on the track- hydraulic oil -
+
+15. review design heat - 40degrees
+
+16. increased buckling -increased chance of derailment
+
+17. OLE will be hotter - boards will fail at 90 degrees - will power off - system not able to cope - solder mets - needs cooling
+
+18. cant let the OLE fail
+
+19. batteries - no electrification so if equipment failure trains get stranded and depend on batteries for air con
+
+20. Ninions Park and Cathays stretch without overhead wire (dependent on battery) - how new rolling stock recharge from cable - if loop not complet - overhead rail not functioning. Exposed areas. neeeds modelling.
+
+21. buildings not consrtucted with thermal mass for heat sink
+
+--------------------------------------------------------------------------------
+Column 3 - Orange Notes (Key adaptation actions):
+--------------------------------------------------------------------------------
+
+1. materials more resilience to range of heat
+
+2. colour of infrastructure - reflective, white, painting rails white
+
+3. GCRE -global centre fror Rail Excellence
+
+4. testing new ideas - e.g. pros and cons of green rooves
+
+5. welfare facilities - access to water
+
+6. working with first responders, fire services
+
+7. new comms plan - thinking about messgaing and channels
+
+8. increase flexibility - ways of working and expectatations for staff and passengers
+
+9. crowd management planning
+
+10. make business case for R&D - more funding
+
+11. comparison with other hot climates
+
+12. comparison across 4 nations
+
+13. accessing better data
+
+14. max effeciecy of the workforce - wearing shorts, PPE, working from home, ice packs
+
+15. changing the standards - RSSB - mindset shift 40 degrees too low
+
+16. understand the effect of heat on components - research on e.g. effective use of drones and RCM
+
+17. TfW possible develop new standards but working with RSSB
+
+18. modelling how existing fleet will perform wirth batteries - is it designed for 40degree - how cope with 47 degrees?
+
+19. review resilience of high risk components - what can cope/ not cope
+
+20. flex of employers - can people work from home
+
+21. stop rail services - imact on others e.g. nurses, fire fighters dont get to work
+
+22. explain clearly why we need to keep the service to continue
+
+23. big canopy over the station
+
+24. decision mapping - to know where are easy wind, timing of key decision moments
+
+25. better design of trains, buildings
+
+26. redefine the power approach for rail - e.g. hydrogen
+
+================================================================================
+TABLE 2: RAPA (Rapid Adaptation Pathways Assessment)
+================================================================================
+Adaptation Actions (Green Notes):
+--------------------------------------------------------------------------------
+
+1. stakeholder consultation - same workshop but with other key players
+
+2. changing standards - which have not caught up
+
+3. moving to another mode of transport
+
+4. new assets
+
+5. new trains
+
+6. new station
+
+7. whole system
+
+8. fitness for purpose review of everything
+
+9. new HR policy for staff - TfW and AIW
+
+10. painting of buildings etc
+
+11. extreme weather policy
+
+12. emergency planning
+
+13. training, PPE, first aid,
+
+14. solar shading of equipment
+
+15. increased remote monitoring
+
+16. embed adoption of cooling systems as part of capex
+
+17. Train plan for extreme weather (including heat)
+
+18. communications plan -both internal and external -- comms to passengers and internally around managing events
+
+19. continue to raise organisational capacity
+
+20. R&D to understand the resilience of the current system
+
+21. continue to raise awareness that this is coming - in TfW and supliers and passengers etc
+
+22. big canopy over the station
+
+23. accessing better data
+
+24. Assess drainage strategy of all nearby developments underway and planning applications and relate to at-risk drainage systems, flood risk locations and under-capacity culverts
+
+25. Increase Network Rail/Third party drainage capacity during design return periods and assess during exceedance events
+
+26. specifically assess capacity of culverts inline with EA river models and indentify pinch points as a joint approach
+
+27. Increased maintenance regimes and enhanced monitoring
+
+28. funding to proactively maintain drainage assets to recommended frequencies outlined in Drainage Management Plan
+
+29. allowing the track to flood safely with minimal structural impact for temporary periods
+
+30. Track raising
+
+31. enhanced scour management
+
+32. widen structures and bridge replacement
+
+33. temporary closure of the line
+
+34. permanent closure of the line
+
+35. canopy over the station
+
+36. canopy & additional building design options e.g. cool waiting rooms
+
+37. enhanced remote monitoring (but current system fails at 40 degrees)
+
+38. new generation remote monitoring (failure threshold unknown)
+
+39. shading and cooling options embedded e.g. solar shading of equipment, painting buildings, roofs white etc
+
+40. new trains designed to withstand a wider range of temperatures
+
+41. more efficient cooling systems which don't drain batteries so quickly
+
+42. new power options e.g. hydrogen
+
+43. replacement of unfit OLE and power equipment with resilient versions
+
+44. canopy over the station
+
+45. canopy & additional building design options e.g. cool waiting rooms
+
+46. enhanced remote monitoring (but current system fails at 40 degrees)
+
+47. new generation remote monitoring (failure threshold unknown)
+
+48. shading and cooling options embedded e.g. solar shading of equipment, painting buildings, roofs white etc
+
+49. new trains designed to withstand a wider range of temperatures
+
+50. more efficient cooling systems which don't drain batteries so quickly
+
+51. new power options e.g. hydrogen
+
+52. replacement of unfit OLE and power equipment with resilient versions
+
+--------------------------------------------------------------------------------
+Assumptions (Blue Notes):
+--------------------------------------------------------------------------------
+
+1. station operators, infrastruct maintenace staff, police, emergency services, local authorities, NR
+
+2. working RSSB, NR, supply chain - people who manufacture signal heads
+
+3. big incident - external change, end of life of an asset
+
+4. trains willexist
+
+5. all transport will be affected at high temperatures
+
+6. government advice about staying at home - unsafe
+
+7. lead times
+
+8. RCM will help
+
+9. also need to look at other risks - intensity, frequency , duration
+
+10. cant be a separate doc
+
+11. embed into renewal process
+
+12. building resiliece through existing processes
+
+13. we know this is coming down the line -
+
+14. working with the unions to agree this - link to pay discussions
+
+15. would it be nation al or TfW - need for flexible staff - expectations about being called in if you have more time off
+
+16. when it fails, RCM that is resilient to higher temperature
+
+17. so dont need maintenance staff going on track
+
+18. RCM starts to fail at 40
+
+19. linked to HR and working conditions and expetctations of staff (and safety)
+
+20. transparency - explain why things failed - live updates
+
+21. expectation management, levels of service
+
+22. to include right people in preparation - across TfL
+
+23. may already exist but this would be more encompassing - with NR and ARW to get speed limites righ and modelling
+
+24. how do humans react in other countries - siesta period? hours of working -handover time at 1pm not good - diff ewoking hours
+
+25. materials
+
+26. partnering with others in rail industry (NR, RSSB etc)
+
+27. looking at how other countries cope
+
+28. including battery and power modelling at different heats - the power draw,- test diff scenatios
+
+29. GCRE - partnering with them
+
+30. alongside other options like cool waiting rooms
+
+31. piloting new approaches
+
+32. arounf the duration of the extreme heat - no days and temp. assming 60 degrees
+
+33. have a conversation about threshold at which this might change due to impact on emergency services etc
+
+34. continue operating trains
+
+35. how people would react - passenger behaviour
+
+================================================================================
+OTHER NOTES (Not categorized into tables)
+================================================================================
+
+1. Color: White
+   Content: XXXX
+
+2. Color: White
+   Content: cardiff-city-pack_august-2022.pdf
+
+3. Color: White
+   Content: S
+
+4. Color: White
+   Content: NF1 - Current Risk
+
+5. Color: White
+   Content: Key risks from a range of future climate scenarios, including the extreme heat event scenario (up to 50oC)
+
+6. Color: White
+   Content: Key current risks from extreme heat
+
+7. Color: White
+   Content: Key adaptation actions to address different levels of risk (and their thresholds) for extreme heat
+
+8. Color: White
+   Content: RAPA
+
+9. Color: White
+   Content: Risks from climate change
+
+10. Color: White
+   Content: NF3 - Adaptation Responses
+
+11. Color: White
+   Content: Adaptation Pathway: Cardiff Queen Street Station
+
+12. Color: White
+   Content: Structural Responses
+
+13. Color: White
+   Content: temperature in degrees celsius
+
+14. Color: White
+   Content: Type your paragraph...
+
+15. Color: White
+   Content: High scenario 10% to 90% (2020)
+
+16. Color: Other
+   Content: High scenario 10% to 90% (2040)
+
+17. Color: Other
+   Content: High scenario 10% to 90% (2060)
+
+18. Color: Other
+   Content: High scenario 10% to 90% (2080)
+
+19. Color: Other
+   Content: High scenario 10% to 90% (2099)
+
+20. Color: White
+   Content: Adaptation Pathway: Cardiff Queen Street Station
+
+21. Color: White
+   Content: Structural Responses
+
+22. Color: White
+   Content: temperature in degrees celsius
+
+23. Color: White
+   Content: Type your paragraph...
+
+24. Color: White
+   Content: High scenario 10% to 90% (2020)
+
+25. Color: Other
+   Content: High scenario 10% to 90% (2040)
+
+26. Color: Other
+   Content: High scenario 10% to 90% (2060)
+
+27. Color: Other
+   Content: High scenario 10% to 90% (2080)
+
+28. Color: Other
+   Content: High scenario 10% to 90% (2099)
+
+29. Color: White
+   Content: Key adaptation actions to address different levels of risk (and their thresholds) for extreme heat
+
+30. Color: White
+   Content: Key current risks from extreme heat
+
+31. Color: White
+   Content: NF2 - Future Risk
+
+32. Color: White
+   Content: Key risks from a range of future climate scenarios, including the extreme heat event scenario (up to 50oC)
+
+33. Color: White
+   Content: Risks from climate change
